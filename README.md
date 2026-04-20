@@ -11,13 +11,16 @@ KPI tracking (Total Requests, Completed, Open, Completion %)
 Monthly trend analysis
 Request type distribution
 Interactive slicers for filtering
-Dashboard Preview
-Full Dashboard
-(dashboard.png)
-KPI Section
-(dashboard_kpi.png)
-Charts
-(dashboard_charts.png)
+## 📷 Dashboard Preview
+
+### 🔹 Full Dashboard
+![Dashboard](dashboard.png)
+
+### 🔹 KPI Section
+![KPI](dashboard_kpi.png)
+
+### 🔹 Charts
+![Charts](dashboard_charts.png)
 Key Insights
 Login and Payment issues are major contributors
 Request volume fluctuates across months
